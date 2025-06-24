@@ -140,7 +140,7 @@ Nilai RMSE yang rendah mengindikasikan bahwa hasil prediksi model memiliki tingk
 
 Berikut adalah visualisasi plot metrik RMSE setelah model selesai dilatih.
 
-![Model Metrics](https://github.com/user-attachments/assets/20d31f30-3be0-4ca4-acee-94a6db9c2989)
+![Model Metrics]((https://github.com/user-attachments/assets/1953a376-14e0-4b6a-90b0-25dacc9e5a50)
 
 Berdasarkan plot di atas, terlihat bahwa model menghasilkan skor RMSE sebesar 0.184, yang menunjukkan performa prediksi yang sudah cukup baik. Meskipun demikian, nilai error tersebut masih bisa ditekan lebih rendah lagi melalui pengembangan dan penyempurnaan model lebih lanjut.
 
