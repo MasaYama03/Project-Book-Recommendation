@@ -124,7 +124,7 @@ Pada proyek ini, **Root Mean Square Error (RMSE)** digunakan sebagai metrik utam
 
 Perhitungan RMSE ditunjukkan pada rumus berikut ini:
 
-![RMSE](https://github.com/user-attachments/assets/1953a376-14e0-4b6a-90b0-25dacc9e5a50)
+![RMSE](https://github.com/user-attachments/assets/20d31f30-3be0-4ca4-acee-94a6db9c2989)
 
 `RMSE` = nilai root mean square error
 
